@@ -7,3 +7,6 @@ class LLNode {
     }
 }
 
+function deleteMiddleNode(head) {
+
+}
